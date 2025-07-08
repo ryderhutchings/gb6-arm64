@@ -69,6 +69,7 @@ You can also export Geekbench 6 results to different formats. This is a great wa
 - `--export-html` exports the result as an HTML file.
 - `--export-json` exports the result as a JSON file.
 - `--export-text` exports the result as a plain-text file.
+
 You can load and display a saved Geekbench 6 result with the following command line:
 
 `geekbench6 --load result.gb6`
