@@ -3,7 +3,7 @@
 > ⚠ **Important:**  
 > This project **requires Ubuntu 18.04 LTS (64-bit) or later**
 
-Easy setup scripts for Geekbench 6 preview on ARM64 (AArch64) Linux devices.
+Easy setup script for Geekbench 6 preview on ARM64 (AArch64) Linux devices.
 
 Geekbench doesn't officially support ARM devices; however, on February 16, 2023, Jeff Geerling posted a question to [Geekbench Support](https://support.primatelabs.com/discussions/geekbench/81903-geekbench-6-for-linux-arm64-raspberry-pi-asahi-on-mac-etc?utm_source=chatgpt.com), where staff member John shared a link to download preview builds for ARM.
 
