@@ -13,9 +13,9 @@
 
 Easy install script and setup guide for Geekbench 6 on AArch64 Linux devices.
 
-Geekbench doesn't officially support ARM devices; however, on February 16, 2023, Jeff Geerling posted a question to [Geekbench Support](https://support.primatelabs.com/discussions/geekbench/81903-geekbench-6-for-linux-arm64-raspberry-pi-asahi-on-mac-etc?utm_source=chatgpt.com), where staff member John shared a link to download preview builds for ARM.
+Geekbench doesn't officially support ARM devices; however, on February 16, 2023, Jeff Geerling posted a question to [Geekbench Support](https://support.primatelabs.com/discussions/geekbench/81903-geekbench-6-for-linux-arm64-raspberry-pi-asahi-on-mac-etc?utm_source=chatgpt.com), where staff member John shared a link to download a preview build for ARM.
 
-Later, the official preview page was added:  
+Later on, the official Geekbench website published the preview page here:
 https://www.geekbench.com/preview/
 
 This repo was created primarily for personal use, so I could run Geekbench on my ARM devices. However, I thought I’d share this setup for anyone who would like to use it :)
