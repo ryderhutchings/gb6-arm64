@@ -1,5 +1,6 @@
 # Geekbench 6
 
+
 ![License](https://img.shields.io/github/license/ryderhutchings/gb6-arm64)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/ryderhutchings/gb6-arm64)
 ![GitHub Issues](https://img.shields.io/github/issues/ryderhutchings/gb6-arm64)
@@ -7,7 +8,8 @@
 
 
 > [!IMPORTANT] 
-> This project **requires Ubuntu 18.04 LTS (64-bit) or later**
+> This project recommends Ubuntu 18.04 LTS (64-bit) or later. \
+> However, I have successfully gotten this to work on Debian, specifically Raspberry Pi OS.
 
 Easy install script and setup guide for Geekbench 6 on AArch64 Linux devices.
 
