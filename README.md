@@ -126,3 +126,9 @@ You can then select one GPU compute API to run a benchmark with. For example, we
 If you have multiple GPUs which support the same GPU API, you can differentiate between them with the platform and device ID numbers that appear before the GPU's name after running `geekbench6 --gpu-list`. For example, if the output of `geekbench6 --gpu-list` contains two devices under OpenCL, including `0 1 AMD Radeon VII`, you can run the OpenCL benchmark on the Radeon VII with the following command:
 
 `geekbench6 --gpu OpenCL --gpu-platform-id 0 --gpu-device-id 1`
+
+<!-- 
+TDL (To Do Later)
+- Add `.sh` install script to the repo section
+--!>
+
