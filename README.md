@@ -55,6 +55,28 @@ sudo ln -sf ~/geekbench6/Geekbench-6.4.0-LinuxARMPreview/geekbench6 /usr/local/b
 
 ### Using the Tool:
 
+> **TL;DR**  
+> Run `geekbench6` to start the benchmark. Once it finishes, you’ll see two links in the output:
+>
+> **Example output:**  
+> ```bash
+> Uploading results to the Geekbench Browser. This could take a minute or two  
+> depending on the speed of your internet connection.
+> 
+> Upload succeeded. Visit the following link to view your results online:
+> 
+>   https://browser.geekbench.com/v6/cpu/12778623
+> 
+> Visit the following link to add this result to your profile:
+> 
+>   https://browser.geekbench.com/v6/cpu/12778623/claim?key=714452
+> ```
+>
+> - The first link (`https://browser.geekbench.com/v6/cpu/12778623`) shows your benchmark results.  
+> - The second link (`https://browser.geekbench.com/v6/cpu/12778623/claim?key=714452`) lets you claim the result to your Geekbench profile.
+
+
+
 The following usage instructions are from the official Primate Labs documentation:
 [Geekbench 6 Command Line Tool](http://support.primatelabs.com/kb/geekbench/geekbench-6-command-line-tool)
 
