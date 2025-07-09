@@ -1,4 +1,4 @@
-# How to Get Geekbench 6 on ARM Devices
+# Geekbench 6
 
 
 ![License](https://img.shields.io/github/license/ryderhutchings/gb6-arm64)
@@ -7,7 +7,7 @@
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA?label=YouTube&style=flat&color=red&logo=youtube)](https://www.youtube.com/@ryderhutchings)
 
 ## Table of Contents
-- [Overview](#how-to-get-geekbench-6-on-arm-devices)
+- [Overview](#geekbench-6)
 - [Disclaimer](#disclaimer)
 - [Getting Started](#getting-started)
 - [Using the Tool](#using-the-tool)
