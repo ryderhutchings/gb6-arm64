@@ -12,13 +12,11 @@
 - [Getting Started](#getting-started)
 - [Using the Tool](#using-the-tool)
 
----
-
 <img width="1657" alt="Screenshot of Geekbench 6 running on Raspberry Pi 5" src="https://github.com/user-attachments/assets/cfa04919-5c35-4169-b4f7-e357e60ca8f7" />
 
 *Screenshot of Geekbench 6 running on a Raspberry Pi 5*
 
----
+## Overview
 
 > [!IMPORTANT] 
 > This project recommends Ubuntu 18.04 LTS (64-bit) or later. \
@@ -61,29 +59,27 @@ rm ~/geekbench6/geekbench.tar.gz
 sudo ln -sf ~/geekbench6/Geekbench-6.4.0-LinuxARMPreview/geekbench6 /usr/local/bin/geekbench6
 ```
 
-### Using the Tool:
+## Using the Tool
+### TL;DR  
+Run `geekbench6` to start the benchmark. Once complete, you’ll see two URLs in the output:
 
-> **TL;DR**  
-> Run `geekbench6` to start the benchmark. Once it finishes, you’ll see two links in the output:
->
-> **Example output:**  
-> ```bash
-> Uploading results to the Geekbench Browser. This could take a minute or two  
-> depending on the speed of your internet connection.
-> 
-> Upload succeeded. Visit the following link to view your results online:
-> 
->   https://browser.geekbench.com/v6/cpu/12778623
-> 
-> Visit the following link to add this result to your profile:
-> 
->   https://browser.geekbench.com/v6/cpu/12778623/claim?key=714452
-> ```
->
-> - The first link (`https://browser.geekbench.com/v6/cpu/12778623`) shows your benchmark results.  
-> - The second link (`https://browser.geekbench.com/v6/cpu/12778623/claim?key=714452`) lets you claim the result to your Geekbench profile.
+```bash
+Uploading results to the Geekbench Browser. This could take a minute or two  
+depending on your internet connection.
 
+Upload succeeded. Visit the following link to view your results online:
 
+  https://browser.geekbench.com/v6/cpu/12778623
+
+Visit the following link to add this result to your profile:
+
+  https://browser.geekbench.com/v6/cpu/12778623/claim?key=714452
+```
+- The first link shows your benchmark results.
+
+- The second link lets you claim the result to your Geekbench profile.
+
+### Advanced Usage
 
 The following usage instructions are from the official Primate Labs documentation:
 [Geekbench 6 Command Line Tool](http://support.primatelabs.com/kb/geekbench/geekbench-6-command-line-tool)
