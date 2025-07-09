@@ -7,7 +7,7 @@
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA?label=YouTube&style=flat&color=red&logo=youtube)](https://www.youtube.com/@ryderhutchings)
 
 ## Table of Contents
-- [Overview](#geekbench-6)
+- [Overview](#overview)
 - [Disclaimer](#disclaimer)
 - [Getting Started](#getting-started)
 - [Using the Tool](#using-the-tool)
