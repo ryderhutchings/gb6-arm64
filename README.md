@@ -6,11 +6,19 @@
 ![GitHub Issues](https://img.shields.io/github/issues/ryderhutchings/gb6-arm64)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA?label=YouTube&style=flat&color=red&logo=youtube)](https://www.youtube.com/@ryderhutchings)
 
-<img width="1657" alt="Screenshot 2025-07-09 at 4 11 54 PM" src="https://github.com/user-attachments/assets/cfa04919-5c35-4169-b4f7-e357e60ca8f7" />
+## Table of Contents
+- [Overview](#how-to-get-geekbench-6-on-arm-devices)
+- [Disclaimer](#disclaimer)
+- [Getting Started](#getting-started)
+- [Using the Tool](#using-the-tool)
 
-<!-- Screenshot of Geekbench 6 running on a Raspberry Pi 5 -->
+---
 
-----
+<img width="1657" alt="Screenshot of Geekbench 6 running on Raspberry Pi 5" src="https://github.com/user-attachments/assets/cfa04919-5c35-4169-b4f7-e357e60ca8f7" />
+
+*Screenshot of Geekbench 6 running on a Raspberry Pi 5*
+
+---
 
 > [!IMPORTANT] 
 > This project recommends Ubuntu 18.04 LTS (64-bit) or later. \
