@@ -33,9 +33,9 @@ This repo was created primarily for personal use, so I could run Geekbench on my
 
 ## Disclaimer
 
-This repository provides scripts to automate downloading and running the official Geekbench 6 preview binaries on ARM64 (AArch64) Linux devices.
+This repository provides commands to automate downloading and running the official Geekbench 6 preview binaries on ARM64 (AArch64) Linux devices.
 
-The official Geekbench package is distributed as a `.tar.gz` archive, which the scripts download and extract automatically.
+The official Geekbench package is distributed as a `.tar.gz` archive, which the commands automatically download and extract.
 
 **Geekbench is proprietary software owned by Primate Labs and is not included in this repository.**  
 Users must download the Geekbench binaries only from the official [Geekbench website](https://www.geekbench.com/).
